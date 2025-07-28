@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/home/toby/Desktop/cosc363/submit/assignment_2/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/RayTracer.out.dir/RayTracer.cpp.o -c /home/toby/Desktop/cosc363/submit/assignment_2/RayTracer.cpp",
+  "file": "/home/toby/Desktop/cosc363/submit/assignment_2/RayTracer.cpp",
+  "output": "CMakeFiles/RayTracer.out.dir/RayTracer.cpp.o"
+},
+{
+  "directory": "/home/toby/Desktop/cosc363/submit/assignment_2/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/RayTracer.out.dir/Ray.cpp.o -c /home/toby/Desktop/cosc363/submit/assignment_2/Ray.cpp",
+  "file": "/home/toby/Desktop/cosc363/submit/assignment_2/Ray.cpp",
+  "output": "CMakeFiles/RayTracer.out.dir/Ray.cpp.o"
+},
+{
+  "directory": "/home/toby/Desktop/cosc363/submit/assignment_2/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/RayTracer.out.dir/SceneObject.cpp.o -c /home/toby/Desktop/cosc363/submit/assignment_2/SceneObject.cpp",
+  "file": "/home/toby/Desktop/cosc363/submit/assignment_2/SceneObject.cpp",
+  "output": "CMakeFiles/RayTracer.out.dir/SceneObject.cpp.o"
+},
+{
+  "directory": "/home/toby/Desktop/cosc363/submit/assignment_2/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/RayTracer.out.dir/Sphere.cpp.o -c /home/toby/Desktop/cosc363/submit/assignment_2/Sphere.cpp",
+  "file": "/home/toby/Desktop/cosc363/submit/assignment_2/Sphere.cpp",
+  "output": "CMakeFiles/RayTracer.out.dir/Sphere.cpp.o"
+},
+{
+  "directory": "/home/toby/Desktop/cosc363/submit/assignment_2/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/RayTracer.out.dir/Cone.cpp.o -c /home/toby/Desktop/cosc363/submit/assignment_2/Cone.cpp",
+  "file": "/home/toby/Desktop/cosc363/submit/assignment_2/Cone.cpp",
+  "output": "CMakeFiles/RayTracer.out.dir/Cone.cpp.o"
+},
+{
+  "directory": "/home/toby/Desktop/cosc363/submit/assignment_2/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/RayTracer.out.dir/Cylinder.cpp.o -c /home/toby/Desktop/cosc363/submit/assignment_2/Cylinder.cpp",
+  "file": "/home/toby/Desktop/cosc363/submit/assignment_2/Cylinder.cpp",
+  "output": "CMakeFiles/RayTracer.out.dir/Cylinder.cpp.o"
+},
+{
+  "directory": "/home/toby/Desktop/cosc363/submit/assignment_2/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/RayTracer.out.dir/Plane.cpp.o -c /home/toby/Desktop/cosc363/submit/assignment_2/Plane.cpp",
+  "file": "/home/toby/Desktop/cosc363/submit/assignment_2/Plane.cpp",
+  "output": "CMakeFiles/RayTracer.out.dir/Plane.cpp.o"
+},
+{
+  "directory": "/home/toby/Desktop/cosc363/submit/assignment_2/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/RayTracer.out.dir/TextureBMP.cpp.o -c /home/toby/Desktop/cosc363/submit/assignment_2/TextureBMP.cpp",
+  "file": "/home/toby/Desktop/cosc363/submit/assignment_2/TextureBMP.cpp",
+  "output": "CMakeFiles/RayTracer.out.dir/TextureBMP.cpp.o"
+}
+]
